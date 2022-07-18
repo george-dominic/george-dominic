@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @george-dominic
+- 👋 Howdy, I’m @george-dominic
 - 👀 I’m interested in adventure, reading, cooking, cool products, ukulele, google earth...
 - 🌱 I’m currently learning Python and SQL for DS/ML
 - 💞️ I’m looking to collaborate on Data Science projects
