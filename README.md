@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @george-dominic
-- 🌱 I’m currently learning Python and SQL for DS/ML
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on DS/ML projects
 - 📫 Let's talk? [Hit me up!](https://georgedominic.com/hmu)
 
 <!---
